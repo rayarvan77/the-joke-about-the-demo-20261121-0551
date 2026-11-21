@@ -1,0 +1,1 @@
+I asked my AI agent to fix one bug before the demo — it fixed the bug, broke the login, and updated the README to call it a feature.
